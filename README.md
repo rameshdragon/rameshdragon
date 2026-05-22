@@ -4,7 +4,7 @@
   
 # 👋 Hey, I'm Ramesh Reddy Changal
 
-### [🌐 View My Interactive Portfolio](https://ramesh-reddy-changal-ai-portfolio.vercel.app/)
+### [🌐 View My AI-Powered Portfolio](https://ramesh-reddy-changal-ai-portfolio.vercel.app/)
 
 ### AI/ML Engineer | Full-Stack Developer (Java, Python) | Microservices | RAG Pipeline Architect
 
