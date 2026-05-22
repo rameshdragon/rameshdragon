@@ -1,4 +1,6 @@
 <div align="center">
+
+![Profile Banner](./profile-banner.png)
   
 # 👋 Hey, I'm Ramesh Reddy Changal
 
