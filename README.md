@@ -4,7 +4,7 @@
   
 # 👋 Hey, I'm Ramesh Reddy Changal
 
-### AI/ML Engineer | Full-Stack Developer | RAG Pipeline Architect
+### AI/ML Engineer | Full-Stack Developer (Java, Python) | Microservices | RAG Pipeline Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramesh-reddy-changal-ai-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-reddy-changal-125413247/)
