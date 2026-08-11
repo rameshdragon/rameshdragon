@@ -9,8 +9,8 @@
 ### AI/ML Engineer | Full-Stack Developer (Java, Python) | Microservices | RAG Pipeline Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramesh-reddy-changal-ai-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-reddy-changal-125413247/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rameshdragonreddy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-reddy-740897428/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshreddychangal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameshdragon)
 
 > 🌐 **[View My Interactive Portfolio →](https://ramesh-reddy-changal-ai-portfolio.vercel.app/)**
@@ -123,8 +123,8 @@ ML ensemble model improving agricultural data reliability by 40%
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [ramesh-reddy-changal](https://www.linkedin.com/in/ramesh-reddy-changal-125413247/)
-- 📧 Email: Rameshdragonreddy@gmail.com
+- 💼 LinkedIn: [ramesh-reddy](https://www.linkedin.com/in/ramesh-reddy-740897428/)
+- 📧 Email: rameshreddychangal@gmail.com
 - 🌐 Portfolio: Coming soon!
 
 ---
