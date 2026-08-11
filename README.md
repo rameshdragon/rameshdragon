@@ -115,7 +115,7 @@ ML ensemble model improving agricultural data reliability by 40%
 ## 💼 Experience Highlights
 
 - 🎓 **Graduate Assistant** @ UMBC (Discrete Mathematics, 150+ students, 3 semesters)
-- 🌾 **Research Intern** @ ICRISAT (40% data reliability improvement)
+- 🏢 **Software Engineer** @ LTI Mindtree (2022–2023)
 - 💻 **Software Engineering Intern** @ Path Creators (Chatbot, Flask/JavaScript)
 - 🤖 **Robotics Engineering Intern** @ Path Creators (IoT obstacle detection, Arduino)
 
